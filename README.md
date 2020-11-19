@@ -7,3 +7,4 @@ Collection of educational resources.
 - Graph statistics
 - Independence and hypothesis testing
 - Forests and lifelong learning
+- Neuroscience
