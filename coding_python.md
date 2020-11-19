@@ -17,6 +17,8 @@
 ## Timing code
 
 ## Style
+### Python naming conventions
+
 ### Code formatting
 - Black
 - Line lengths
