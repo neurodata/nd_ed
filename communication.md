@@ -8,3 +8,6 @@
 
 ## Notebooks
 - How to make a good Jupyter notebook for sharing with collaborators
+- Provide a template for the above
+- How to export/save Jupyter notebooks 
+- How to host them online
