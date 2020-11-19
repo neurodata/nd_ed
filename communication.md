@@ -6,3 +6,5 @@
 ## Slides
 - [Jovo's slides checklist](https://bitsandbrains.io/2018/09/04/slides.html)
 
+## Notebooks
+- How to make a good Jupyter notebook for sharing with collaborators
