@@ -9,6 +9,9 @@
 
 ### Pandas
 
+## Machine learning
+### Scikit-learn
+
 ## Visualization
 ### Matplotlib
 
@@ -38,5 +41,18 @@
 - Vectorizing in NumPy
 - Numba
 
-## Machine learning
-### Scikit-learn
+## Package setup and management
+### Sphinx
+
+### Hosting documentation online
+
+### Testing with pytest
+
+### Continuous integration
+
+### Codecoverage
+
+### PyPI
+
+### Conda-forge
+
