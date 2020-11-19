@@ -5,7 +5,7 @@
 ## The basic stack
 ### NumPy
 
-### Scipy
+### SciPy
 
 ### Pandas
 
