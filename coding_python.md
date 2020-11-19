@@ -56,3 +56,13 @@
 
 ### Conda-forge
 
+## Jupyter notebooks
+### Running from the command line
+
+### Running on a remote server
+
+## VS code and Python
+### Recommended extensions
+
+### Data science tools
+
