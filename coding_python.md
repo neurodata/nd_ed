@@ -21,6 +21,7 @@
 ### Seaborn
 
 ## Timing code
+- [Overview of a few methods](https://realpython.com/python-timer/)
 
 ## Style
 ### Python naming conventions
