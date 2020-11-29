@@ -8,6 +8,9 @@
 ### SciPy
 
 ### Pandas
+- [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Selecting subsets of data](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
+- [Pandas exercises](https://github.com/guipsamora/pandas_exercises)
 
 ## Machine learning
 ### Scikit-learn
