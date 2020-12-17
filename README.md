@@ -8,4 +8,4 @@ Collection of educational resources.
 - Graph statistics
 - Independence and hypothesis testing
 - Forests and lifelong learning
-- Neuroscience
+- [Neuroscience](https://github.com/neurodata/nd_ed/blob/main/neuroscience.md)
