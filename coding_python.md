@@ -31,6 +31,7 @@
 - Line lengths
 
 ### Layout of a package
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 
 ## Making code fast
 ### Parallelization
