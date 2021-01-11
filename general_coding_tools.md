@@ -2,6 +2,10 @@
 
 ## Command line
 
+## Contributing to open source
+- [How to contribute to open source](https://github.com/MunGell/awesome-for-beginners#python)
+  - Lots of links to other resources, including tips for PRs/Issues, walkthroughts of the PR process, markdown, git, etc.  
+  
 ## git
 - [Undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm)
 
