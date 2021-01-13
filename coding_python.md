@@ -4,6 +4,7 @@
 
 ## The basic stack
 ### NumPy
+- [w3schools NumPy tutorial](https://www.w3schools.com/python/numpy_intro.asp)
 
 ### SciPy
 
