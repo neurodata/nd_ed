@@ -2,6 +2,7 @@
 
 ## Getting started with Python itself
 
+- [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
 ## The basic stack
 ### NumPy
 
