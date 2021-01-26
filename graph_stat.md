@@ -1,6 +1,6 @@
 # Graph statistics 
 
--[The Atlas for the Aspiring Network Scientist](https://arxiv.org/abs/2101.00863)
+- [The Atlas for the Aspiring Network Scientist](https://arxiv.org/abs/2101.00863)
   - Gives a high level overview of many of the tools and concepts in network science generally.
   - Recommended reading for our lab: 
     - Part II: Simple Properties
