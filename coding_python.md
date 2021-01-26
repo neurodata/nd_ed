@@ -19,6 +19,7 @@
 
 ## Visualization
 ### Matplotlib
+- [Cheatsheets](https://github.com/matplotlib/cheatsheets)
 
 ### Seaborn
 
