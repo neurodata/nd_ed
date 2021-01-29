@@ -1,4 +1,4 @@
-# Graph statistics 
+# Graphs and graph statistics 
 
 - [The Atlas for the Aspiring Network Scientist](https://arxiv.org/abs/2101.00863)
   - Gives a high level overview of many of the tools and concepts in network science generally.
