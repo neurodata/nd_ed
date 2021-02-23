@@ -24,3 +24,4 @@
 - [A Tutorial on Spectral Clustering](https://link.springer.com/article/10.1007/s11222-007-9033-z)
 - [MIT Opencourseware on Networks](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/lecture-and-recitation-notes/)
 - [MIT Opencourseware on Introduction to Network Models](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-022-introduction-to-network-models-fall-2018/)
+- [Short notes on eigenvector centrality, random walks, PageRank](https://users.cs.duke.edu/~kamesh/ModernAlg/lec8.pdf)
