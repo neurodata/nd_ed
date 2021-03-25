@@ -12,9 +12,12 @@
     - Note that this example includes gitlab links, typically we use github.
 - [Undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm)
 
-## SSHing into a server
-### Setting this up
+## Remote server tools
+### Setting up SSH and such things
 ### tmux
+
+### Rsync
+- [A nice Rsync tutorial/reference](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 
 ## AWS
 
