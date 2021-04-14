@@ -42,6 +42,9 @@
 - Docs are very good for getting started
 - [Pedigo's blog post](https://bdpedigo.github.io/posts/2020/02/demo-parallel/)
   on Joblib with reproducible random numbers
+- [A better post from Joblib](https://joblib.readthedocs.io/en/latest/auto_examples/parallel_random_state.html)
+  also on how to use Joblib with randomness in each child process but still have
+  the ability to get reproducible results
 
 #### Other ways of doing parallelization
 
