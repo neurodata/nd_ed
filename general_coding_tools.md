@@ -19,6 +19,10 @@
 ### Rsync
 - [A nice Rsync tutorial/reference](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 
+## Open-source Python package tools
+- [Publishing to PyPi](https://realpython.com/pypi-publish-python-package/)
+- [Generating DOI via Zenodo](https://guides.github.com/activities/citable-code/)
+
 ## AWS
 
 ## MARCC
