@@ -10,5 +10,6 @@
 - Always use [nbviewer](https://nbviewer.jupyter.org) or otherwise host the notebooks as HTML to share publically available notebooks with others
 - How to make a good Jupyter notebook for sharing with collaborators
 - Provide a template for the above
-- How to export/save Jupyter notebooks 
+- How to export/save Jupyter notebooks
+   - [nbconvert](https://nbconvert.readthedocs.io/en/latest/index.html)
 - How to host them online
