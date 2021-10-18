@@ -8,6 +8,10 @@
 - [Gilbert Strang: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/)
   - An excellent video lecture series on the parts of linear algebra useful for machine learning.
 
+## Statistics
+- [JHU OpenCourseWare courses, many in biostats](https://ocw.jhsph.edu/index.cfm/go/find.browse#courses) 
+
 ## Generalized PCA
 - [Nice blog post from Alex Williams](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
   - High level overview of PCA and extensions
+
