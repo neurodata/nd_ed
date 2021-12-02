@@ -27,3 +27,6 @@
 - [Short notes on eigenvector centrality, random walks, PageRank](https://users.cs.duke.edu/~kamesh/ModernAlg/lec8.pdf)
 - [Jure Leskovec course slides, mostly on graph neural networks](http://web.stanford.edu/class/cs224w/)
 - [Graph representation learning book](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- Graph neural nets blogs
+   - [Do we need deep graph neural networks?](https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59) 
+   - [Simple scalable graph neural networks](https://towardsdatascience.com/simple-scalable-graph-neural-networks-7eb04f366d07)
