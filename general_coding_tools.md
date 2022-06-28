@@ -11,6 +11,7 @@
 - [Git command line basics](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
     - Note that this example includes gitlab links, typically we use github.
 - [Undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm)
+- [Visualization of common git commands](https://onlywei.github.io/explain-git-with-d3/)
 
 ## Remote server tools
 ### Setting up SSH and such things
