@@ -75,5 +75,7 @@
 ## VS code and Python
 ### Recommended extensions
 
+[Visual Studio Code Remote - SSH](https://code.visualstudio.com/docs/remote/ssh) can allow you to code on a computer other than the one you are using. For example, paired with [proxy jump](https://goteleport.com/blog/ssh-proxyjump-ssh-proxycommand/), you can code on CIS machines from your persoonal laptop.
+
 ### Data science tools
 
